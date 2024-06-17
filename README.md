@@ -33,10 +33,9 @@ License
 This project is GPL v2 software. See the LICENSE.txt file in this directory for
 complete text.
 
-Current Maintainers
--------------------
-
-This module is currently maintained for Backdrop by Ericfg .
+## Current Maintainer(s):
+- [Steve Moorhouse (albanycomputers)] (https://github.com/albanycomputers)
+- Ericfg
 
 Credits
 -------
